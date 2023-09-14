@@ -2,3 +2,7 @@
 	path = CoffeeMaker
 	url = https://github.com/aprak5/CoffeeMaker.git
 	branch = main
+[submodule "CovidKnapsackProject"]
+	path = CovidKnapsackProject
+	url = https://github.com/aprak5/CovidKnapsackProject.git
+	branch = main

@@ -1,3 +1,4 @@
 [submodule "CoffeeMaker"]
 	path = CoffeeMaker
 	url = https://github.com/aprak5/CoffeeMaker.git
+	branch = main

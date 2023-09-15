@@ -6,3 +6,7 @@
 	path = CovidKnapsackProject
 	url = https://github.com/aprak5/CovidKnapsackProject.git
 	branch = main
+[submodule "NCSOProjects"]
+	path = NCSOProjects
+	url = https://github.com/aprak5/NCSOProjects.git
+	branch = main

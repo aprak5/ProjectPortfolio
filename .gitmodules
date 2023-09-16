@@ -10,3 +10,7 @@
 	path = NCSOProjects
 	url = https://github.com/aprak5/NCSOProjects.git
 	branch = main
+[submodule "BUS443WebApp"]
+	path = BUS443WebApp
+	url = https://github.com/aprak5/BUS443WebApp.git
+	branch = main

@@ -14,3 +14,7 @@
 	path = BUS443WebApp
 	url = https://github.com/aprak5/BUS443WebApp.git
 	branch = main
+[submodule "IBMRPAMetricsDashboard"]
+	path = IBMRPAMetricsDashboard
+	url = https://github.com/aprak5/IBMRPAMetricsDashboard.git
+	branch = main

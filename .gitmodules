@@ -18,3 +18,7 @@
 	path = IBMRPAMetricsDashboard
 	url = https://github.com/aprak5/IBMRPAMetricsDashboard.git
 	branch = main
+[submodule "NCDPRInventoryManagementApp"]
+	path = NCDPRInventoryManagementApp
+	url = https://github.com/aprak5/NCDPRInventoryManagementApp.git
+	branch = main

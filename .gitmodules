@@ -22,3 +22,6 @@
 	path = PythonWebApp
 	url = https://github.com/aprak5/PythonWebApp.git
 	branch = main
+[submodule "BasicAIProjects"]
+	path = BasicAIProjects
+	url = https://github.com/aprak5/BasicAIProjects.git

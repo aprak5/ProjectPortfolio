@@ -25,3 +25,8 @@
 [submodule "BasicAIProjects"]
 	path = BasicAIProjects
 	url = https://github.com/aprak5/BasicAIProjects.git
+	branch = main
+[submodule "CSharpApps"]
+	path = CSharpApps
+	url = https://github.com/aprak5/CSharpApps.git
+	branch = main

@@ -30,3 +30,11 @@
 	path = CSharpApps
 	url = https://github.com/aprak5/CSharpApps.git
 	branch = main
+[submodule "MLApps"]
+	path = MLApps
+	url = https://github.com/aprak5/MLApps.git
+	branch = main
+[submodule "PrivacyProjects"]
+	path = PrivacyProjects
+	url = https://github.com/aprak5/PrivacyProjects.git
+	branch = main

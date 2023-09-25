@@ -42,6 +42,10 @@
 	path = OtherProjects/PrivacyProjects
 	url = https://github.com/aprak5/PrivacyProjects.git
 	branch = main
+[submodule "OtherProjects/RProject"]
+	path = OtherProjects/RProject
+	url = https://github.com/aprak5/RProject.git	
+	branch = main
 [submodule "OtherProjects/TheoreticalJavaProjects"]
 	path = OtherProjects/TheoreticalJavaProjects
 	url = https://github.com/aprak5/TheoreticalJavaProjects.git

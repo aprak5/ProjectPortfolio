@@ -1,44 +1,49 @@
+[submodule "CMSWebApp"]
+	path = CMSWebApp
+	url = https://github.com/aprak5/CMSWebApp.git
+	branch = main
 [submodule "CoffeeMaker"]
 	path = CoffeeMaker
 	url = https://github.com/aprak5/CoffeeMaker.git
 	branch = main
-[submodule "CovidKnapsackProject"]
-	path = CovidKnapsackProject
-	url = https://github.com/aprak5/CovidKnapsackProject.git
+[submodule "IBMRPAMetricsDashboard"]
+	path = IBMRPAMetricsDashboard
+	url = https://github.com/aprak5/IBMRPAMetricsDashboard.git
+	branch = main	
+[submodule "NCDPRInventoryManagementApp"]
+	path = NCDPRInventoryManagementApp
+	url = https://github.com/aprak5/NCDPRInventoryManagementApp.git
 	branch = main
 [submodule "NCSOProjects"]
 	path = NCSOProjects
 	url = https://github.com/aprak5/NCSOProjects.git
 	branch = main
-[submodule "IBMRPAMetricsDashboard"]
-	path = IBMRPAMetricsDashboard
-	url = https://github.com/aprak5/IBMRPAMetricsDashboard.git
-	branch = main
-[submodule "NCDPRInventoryManagementApp"]
-	path = NCDPRInventoryManagementApp
-	url = https://github.com/aprak5/NCDPRInventoryManagementApp.git
-	branch = main
-[submodule "PythonWebApp"]
-	path = PythonWebApp
-	url = https://github.com/aprak5/PythonWebApp.git
-	branch = main
-[submodule "BasicAIProjects"]
-	path = BasicAIProjects
-	url = https://github.com/aprak5/BasicAIProjects.git
-	branch = main
-[submodule "CSharpApps"]
-	path = CSharpApps
-	url = https://github.com/aprak5/CSharpApps.git
-	branch = main
-[submodule "MLApps"]
-	path = MLApps
-	url = https://github.com/aprak5/MLApps.git
-	branch = main
-[submodule "PrivacyProjects"]
-	path = PrivacyProjects
-	url = https://github.com/aprak5/PrivacyProjects.git
-	branch = main
-[submodule "AssemblyCPrograms"]
-	path = AssemblyCPrograms
+[submodule "OtherProjects/AssemblyCPrograms"]
+	path = OtherProjects/AssemblyCPrograms
 	url = https://github.com/aprak5/AssemblyCPrograms.git
 	branch = main
+[submodule "OtherProjects/BasicAIProjects"]
+	path = OtherProjects/BasicAIProjects
+	url = https://github.com/aprak5/BasicAIProjects.git
+	branch = main
+[submodule "OtherProjects/CovidKnapsackProject"]
+	path = OtherProjects/CovidKnapsackProject
+	url = https://github.com/aprak5/CovidKnapsackProject.git
+	branch = main
+[submodule "OtherProjects/CSharpApps"]
+	path = OtherProjects/CSharpApps
+	url = https://github.com/aprak5/CSharpApps.git
+	branch = main
+[submodule "OtherProjects/MLApps"]
+	path = OtherProjects/MLApps
+	url = https://github.com/aprak5/MLApps.git
+	branch = main
+[submodule "OtherProjects/PrivacyProjects"]
+	path = OtherProjects/PrivacyProjects
+	url = https://github.com/aprak5/PrivacyProjects.git
+	branch = main
+[submodule "OtherProjects/TheoreticalJavaProjects"]
+	path = OtherProjects/TheoreticalJavaProjects
+	url = https://github.com/aprak5/TheoreticalJavaProjects.git
+	branch = main
+

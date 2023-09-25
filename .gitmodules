@@ -38,3 +38,7 @@
 	path = PrivacyProjects
 	url = https://github.com/aprak5/PrivacyProjects.git
 	branch = main
+[submodule "AssemblyCPrograms"]
+	path = AssemblyCPrograms
+	url = https://github.com/aprak5/AssemblyCPrograms.git
+	branch = main

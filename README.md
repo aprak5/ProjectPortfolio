@@ -13,6 +13,6 @@ A portfolio of the projects over my career. For more information, click the proj
 
 - Name: ![NCSO Projects](https://github.com/aprak5/NCSOProjects). Description: The objectives of the projects were to optimize organizational processes with time reduction and lower chance of error as the prime concerns. The projects were intended to be reproducible, extendible, and well-documented for future development.
   
-- For all other projects: click ![here](https://github.com/aprak5/ProjectPortfolio/OtherProjects). 
+- For all other projects: click ![here](https://github.com/aprak5/ProjectPortfolio/tree/main/OtherProjects). 
 
 Please note, some projects are private and available on request due to confidentiality agreements.

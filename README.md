@@ -3,7 +3,7 @@ A portfolio of the projects over my career. For more information, click the proj
 
 # Project List
 
-- Name: ![CMS Web Application](https://github.com/aprak5/CMSWebApp). Description: As a part of the final project for my Web Development in Business course, a web application was made as a small-scale enrollment management system. This application could be something a department course scheduler or admin uses to manage courses enrollment between students and/or teachers in the department.
+- Name: ![CMS Web Application](https://github.com/aprak5/CMSWebApp). Description: As a part of the final project for my Web Development in Business course, a web application was made as a small-scale course management system (CMS). This application could be something a department course scheduler or admin uses to manage courses enrollment between students and/or teachers in the department.
   
 - Name: ![CoffeeMaker Application](https://github.com/aprak5/CoffeeMaker). Description: The goal of this project is to implement add recipe, add ingredient, add inventory, and edit recipe functionality for an application which tracks and records different recipes, ingredients, and other inventory for coffee shop employees.
 
